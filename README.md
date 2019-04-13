@@ -44,7 +44,7 @@ $ vagrant ssh
 $ sudo -E /usr/local/bin/minikube start --vm-driver=none
 ```
 
-#### Verify if cluster is successfully setup ####
+#### Verify and have a Happy Kubeing ####
 
 ```
 $ kubectl get no
